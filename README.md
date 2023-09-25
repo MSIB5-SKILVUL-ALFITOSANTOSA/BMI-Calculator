@@ -1,10 +1,11 @@
 # bmi-calculator
+
 Body Mass Index Calculator
 
 ### Input
 
 `Weight => Kg`
 
-`Heighr => Cm`
+`Height => Cm`
 
 BMI = kg / m<sup>2</sup>
